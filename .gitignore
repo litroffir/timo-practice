@@ -1,1 +1,10 @@
-. -
+# Данные и модели — на Google Drive, не в Git
+data/
+models/
+*.csv
+*.pth
+
+# Служебные файлы
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
